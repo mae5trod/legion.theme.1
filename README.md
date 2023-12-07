@@ -15,6 +15,9 @@ copy/paste this file into C:\Users\[YOURNAME]\AppData\Roaming\Vencord
 (folder also can find in vencord/themes/open theme folder)
 ![vencord themes](https://imgur.com/b8Jmnja.png)
 
+goto discord settings, vencord/themes and toggle on "legion.theme_1"
+![settings](https://imgur.com/undefined)
+
 ## Contributing For Frosted Glass
 
 This theme is based on another theme, Frosted Glass. Looking to contribute to Frosted Glass? Read the the [contributing.md](https://github.com/DiscordStyles/FrostedGlass/blob/master/CONTRIBUTING.md) file.
