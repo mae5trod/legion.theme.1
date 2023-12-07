@@ -2,7 +2,7 @@
 
 my 1st theme for discord
 
-![[server chat](https://i.imgur.com/GF3EhYR.png)
+![server chat](https://i.imgur.com/GF3EhYR.png)
 
 ## install
 download & install Vencord https://vencord.dev/download/
