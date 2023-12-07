@@ -10,9 +10,9 @@ download & install Vencord https://vencord.dev/download/
 download .css file from: https://github.com/mae5trod/legion.theme.1/releases/tag/discord.theme
 
 copy/paste this file into C:\Users\[YOURNAME]\AppData\Roaming\Vencord
-[folder](https://imgur.com/JkJM4hQ)]]
+[folder](https://imgur.com/JkJM4hQ)]
 (folder also can find in vencord themes/themes/open theme folder)
-[[vencord themes](https://imgur.com/GF3EhYR)](https://imgur.com/b8Jmnja)
+[vencord themes](https://imgur.com/b8Jmnja)
 
 ## Contributing For Frosted Glass
 
