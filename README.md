@@ -1,19 +1,23 @@
-# Frosted Glass
+# legion.theme
 
-Display your picture of choice with adjustable blur and brightness. Dark theme is required.
+my 1st theme for discord
 
-![Server Chat](https://i.imgur.com/sUlg8ff.png)
+![server chat](https://imgur.com/GF3EhYR)
 
-## Download
+## install
+download & install Vencord https://vencord.dev/download/
 
-BetterDiscord Download: [https://betterdiscord.app/theme/Frosted%20Glass](https://betterdiscord.app/Download?id=40)  
-Powercord Install: `git clone https://github.com/DiscordStyles/FrostedGlass`  
-Vencord link: `https://raw.githubusercontent.com/DiscordStyles/FrostedGlass/deploy/FrostedGlass.theme.css`
+download .css file from: https://github.com/mae5trod/legion.theme.1/releases/tag/discord.theme
 
-## Contributing
+copy/paste this file into C:\Users\[YOURNAME]\AppData\Roaming\Vencord
+[folder](https://imgur.com/JkJM4hQ)
+(folder also can find in vencord themes/themes/open theme folder)
+[vencord themes](https://imgur.com/GF3EhYR)
+
+## Contributing For Frosted Glass
 
 Looking to contribute to Frosted Glass? Read the the [contributing.md](https://github.com/DiscordStyles/FrostedGlass/blob/master/CONTRIBUTING.md) file.
 
-## License
+## Frosted Glass License
 
 See the [LICENSE](https://github.com/DiscordStyles/FrostedGlass/blob/master/LICENSE.md) file for license rights and limitations (MIT).
