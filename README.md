@@ -12,7 +12,7 @@ download .css file from: https://github.com/mae5trod/legion.theme.1/releases/tag
 copy/paste this file into C:\Users\[YOURNAME]\AppData\Roaming\Vencord
 ![folder](https://imgur.com/JkJM4hQ.png)
 
-(folder also can find in vencord themes/themes/open theme folder)
+(folder also can find in vencord/themes/open theme folder)
 ![vencord themes](https://imgur.com/b8Jmnja.png)
 
 ## Contributing For Frosted Glass
