@@ -17,7 +17,7 @@ copy/paste this file into C:\Users\[YOURNAME]\AppData\Roaming\Vencord
 
 ## Contributing For Frosted Glass
 
-Looking to contribute to Frosted Glass? Read the the [contributing.md](https://github.com/DiscordStyles/FrostedGlass/blob/master/CONTRIBUTING.md) file.
+This theme is based on another theme, Frosted Glass. Looking to contribute to Frosted Glass? Read the the [contributing.md](https://github.com/DiscordStyles/FrostedGlass/blob/master/CONTRIBUTING.md) file.
 
 ## Frosted Glass License
 
